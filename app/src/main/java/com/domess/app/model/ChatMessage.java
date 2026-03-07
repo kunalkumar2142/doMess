@@ -1,4 +1,4 @@
-package model;
+package com.domess.app.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
